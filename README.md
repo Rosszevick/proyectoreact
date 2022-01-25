@@ -2,8 +2,11 @@
 
 HOLA ZORRAX 
 
+
 INTENTO DE SUBIDA POR CONSOLA
 
+=======
+>>>>>>> 982e15f72339b8c273c37b3227481862696e5a67
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
